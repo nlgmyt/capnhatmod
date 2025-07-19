@@ -1,9 +1,9 @@
 {
   "version_settings": {
-    "current_version": "3.3",
-    "version_required": "3.2",
-    "update_available": true,
-    "force_update": true,
+    "current_version": "3.1",
+    "version_required": "3.1",
+    "update_available": false,
+    "force_update": false,
     "download_url": "https://github.com/nlgmyt/capnhatmod/releases/latest"
   },
   "maintenance": {
@@ -15,14 +15,14 @@
       "id": "welcome_notif",
       "active": true,
       "title": "CHÀO MỪNG ĐẾN VỚI TOOL CỦA NLGMYT!",
-      "content": "Cảm ơn bạn đã sử dụng. Chọn (1) để tải bộ mod mới nhất, chọn (2) để cài đặt.",
+      "content": "Cảm ơn bạn đã sử dụng. Nhấn Enter để mở menu ",
       "show_until": "2025-12-31T23:59:59"
     },
     {
       "id": "update_info",
       "active": true,
       "title": "CẬP NHẬT QUAN TRỌNG",
-      "content": "Phiên bản mod mới đã cập nhật hiệu ứng cho tướng A và B.",
+      "content": "Phiên bản mod mới đã cập nhật.",
       "show_until": "2024-01-15T23:59:59"
     }
   ],
