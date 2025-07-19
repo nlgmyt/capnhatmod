@@ -1,13 +1,13 @@
 {
   "version_settings": {
-    "current_version": "3.1",
-    "version_required": "3.0",
+    "current_version": "3.3",
+    "version_required": "3.2",
     "update_available": true,
     "force_update": true,
     "download_url": "https://github.com/nlgmyt/capnhatmod/releases/latest"
   },
   "maintenance": {
-    "active": false,
+    "active": true,
     "message": "Hệ thống đang được nâng cấp để cải thiện hiệu suất. Vui lòng quay lại sau ít phút."
   },
   "notifications": [
