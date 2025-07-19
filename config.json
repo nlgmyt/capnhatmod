@@ -20,7 +20,7 @@
     },
     {
       "id": "update_info",
-      "active": false,
+      "active": true,
       "title": "CẬP NHẬT QUAN TRỌNG",
       "content": "Phiên bản mod mới đã cập nhật hiệu ứng cho tướng A và B.",
       "show_until": "2024-01-15T23:59:59"
