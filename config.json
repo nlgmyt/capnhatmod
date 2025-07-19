@@ -7,7 +7,7 @@
     "download_url": "https://github.com/nlgmyt/capnhatmod/releases/latest"
   },
   "maintenance": {
-    "active": true,
+    "active": false,
     "message": "Hệ thống đang được nâng cấp để cải thiện hiệu suất. Vui lòng quay lại sau ít phút."
   },
   "notifications": [
