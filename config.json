@@ -2,8 +2,8 @@
   "version_settings": {
     "current_version": "3.1",
     "version_required": "3.1",
-    "update_available": false,
-    "force_update": false,
+    "update_available": true,
+    "force_update": true,
     "download_url": "https://github.com/nlgmyt/capnhatmod/releases/latest"
   },
   "maintenance": {
